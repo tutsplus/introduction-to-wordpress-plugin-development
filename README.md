@@ -11,10 +11,10 @@ Finally, we'll build our own plugin using various WordPress APIs, taking into ac
 
 This repository contains a simple WordPress plugin: _Post Notice_. This plugin allows a WordPress site administrator to create a simple notice to be displayed above a post. The plugin contains PHP, CSS and JavaScript code to implement both administrative and end-user interfaces.
 
-These are source files for the Tuts+ course: [COURSE NAME][published url]
+These are source files for the Tuts+ course: [Introduction to WordPress Plugin Development][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/introduction-to-wordpress-plugin-development
 [instructor url]: https://tutsplus.com/authors/tom-mcfarlin
 
